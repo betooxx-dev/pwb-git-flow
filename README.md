@@ -1,2 +1,3 @@
-# practica-gitFlow
-practica universitaria sobre el uso de git flow
+# Práctica del uso de git flow
+Práctica universitaria con la implementación de un flujo de git.
+Materia: Programación Web.
